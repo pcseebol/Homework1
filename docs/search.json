@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "Homework1.html",
+    "href": "Homework1.html",
+    "title": "Data Science & The Joys of Statistics",
+    "section": "",
+    "text": "I have had the good fortune to contribute to projects as both a Statistician and a Data Scientist. Based on my experiences, being a data scientist is all about translation. Our role is to take sets of numbers and extract from them narratives which can be understood by those without much quantitative experience. Achieving this outcome will likely include programmatic aspects of database management and manipulation, as well as analysis and presentation. In the end though, data science is about revealing insights and revealing patterns.\n\n\n\nThere are several differences and similarities between these roles. As mentioned in the ASA reading, Data Science draws heavily on Statistics. In my experience, a statistician is more likely to be involved in doing inference on smaller data sets, and is more likely to use mathematical ideas to develop models and estimators. Data scientists seem to use more computer science ideas, with emphasis on programmatically handling large data sets and using pre-established packages/models. However, these differences are not always hard and fast differences, as both roles will draw heavily on computational and programmatic approaches.\n\n\n\nI am fortunate to have experience with both fields, and to be a competent statistician and data scientist. I enjoy the mathematical emphasis of statistics, but also find the modeling approaches of data science invigorating. In the long term, my knowledge of statistics will enhance my abilities as a data scientist and vice versa."
+  },
+  {
+    "objectID": "Homework1.html#what-do-you-think-being-a-data-scientist-is-about",
+    "href": "Homework1.html#what-do-you-think-being-a-data-scientist-is-about",
+    "title": "Data Science & The Joys of Statistics",
+    "section": "",
+    "text": "I have had the good fortune to contribute to projects as both a Statistician and a Data Scientist. Based on my experiences, being a data scientist is all about translation. Our role is to take sets of numbers and extract from them narratives which can be understood by those without much quantitative experience. Achieving this outcome will likely include programmatic aspects of database management and manipulation, as well as analysis and presentation. In the end though, data science is about revealing insights and revealing patterns."
+  },
+  {
+    "objectID": "Homework1.html#what-differencessimilarities-do-you-see-between-data-scientists-and-statisticians",
+    "href": "Homework1.html#what-differencessimilarities-do-you-see-between-data-scientists-and-statisticians",
+    "title": "Data Science & The Joys of Statistics",
+    "section": "",
+    "text": "There are several differences and similarities between these roles. As mentioned in the ASA reading, Data Science draws heavily on Statistics. In my experience, a statistician is more likely to be involved in doing inference on smaller data sets, and is more likely to use mathematical ideas to develop models and estimators. Data scientists seem to use more computer science ideas, with emphasis on programmatically handling large data sets and using pre-established packages/models. However, these differences are not always hard and fast differences, as both roles will draw heavily on computational and programmatic approaches."
+  },
+  {
+    "objectID": "Homework1.html#how-do-you-view-yourself-in-relation-to-these-areas",
+    "href": "Homework1.html#how-do-you-view-yourself-in-relation-to-these-areas",
+    "title": "Data Science & The Joys of Statistics",
+    "section": "",
+    "text": "I am fortunate to have experience with both fields, and to be a competent statistician and data scientist. I enjoy the mathematical emphasis of statistics, but also find the modeling approaches of data science invigorating. In the long term, my knowledge of statistics will enhance my abilities as a data scientist and vice versa."
+  }
+]

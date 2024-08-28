@@ -1,0 +1,47 @@
+---
+title: "Data Science & The Joys of Statistics"
+author: "Patrick Seebold"
+format: html
+editor: visual
+---
+
+# On Being a Data Scientist
+
+## What do you think being a data scientist is about?
+
+I have had the good fortune to contribute to projects as both a Statistician and a Data Scientist. Based on my experiences, being a data scientist is all about translation. Our role is to take sets of numbers and extract from them narratives which can be understood by those without much quantitative experience. Achieving this outcome will likely include programmatic aspects of database management and manipulation, as well as analysis and presentation. In the end though, data science is about revealing insights and revealing patterns.
+
+## What differences/similarities do you see between data scientists and statisticians?
+
+There are several differences and similarities between these roles. As mentioned in the ASA reading, Data Science draws heavily on Statistics. In my experience, a statistician is more likely to be involved in doing inference on smaller data sets, and is more likely to use mathematical ideas to develop models and estimators. Data scientists seem to use more computer science ideas, with emphasis on programmatically handling large data sets and using pre-established packages/models. However, these differences are not always hard and fast differences, as both roles will draw heavily on computational and programmatic approaches.
+
+## How do you view yourself in relation to these areas?
+
+I am fortunate to have experience with both fields, and to be a competent statistician and data scientist. I enjoy the mathematical emphasis of statistics, but also find the modeling approaches of data science invigorating. In the long term, my knowledge of statistics will enhance my abilities as a data scientist and vice versa.
+
+# R Code Example
+
+Next, we will demonstrate some simple functionality in R.
+
+```{r}
+# Set y using existing database
+y = density(iris$Petal.Width)
+```
+
+Now that we have established our object (y), we can get a better idea of how R is handling that data by examining the class, type, and structure of the object:
+
+```{r}
+# Create an R code chunk to determine the class, type, and structure of the object y
+class(y)
+typeof(y)
+str(y)
+```
+
+Finally, let's plot the density of our object so we can better visualize the data:
+
+```{r echo = FALSE}
+# Create an R code chunk that uses the plot function on y. Hide the R code in the final document by setting echo to false.
+plot(y)
+```
+
+That's all for this homework. More exciting work to come!
